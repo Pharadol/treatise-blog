@@ -19,10 +19,6 @@ You can see a live demo of the project [here](https://treatise-blog.vercel.app/)
  - React.js
  - Tailwind
 
-## Tech Stack
- - React.js
- - Tailwind
-
 ## Installation
 
 1. Clone the repository:
